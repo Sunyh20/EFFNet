@@ -1,0 +1,1440 @@
+epoch [1/120] IoU: train = 0.0000, val = 0.0000
+epoch [1/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [1/120] Global -- IoU: train = 0.3097, val = 0.5282
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[1.31096933e-06 4.20263688e-01 6.45925599e-01 1.14026624e-02
+ 4.07822170e-01 1.97906433e-01 1.74970690e-01]
+Global val:[0.         0.60910791 0.80725425 0.         0.67834291 0.55283457
+ 0.52177387]
+================================
+epoch [2/120] IoU: train = 0.0000, val = 0.0000
+epoch [2/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [2/120] Global -- IoU: train = 0.4938, val = 0.5947
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.         0.5870658  0.75011385 0.0804491  0.64281007 0.49982844
+ 0.40276416]
+Global val:[0.         0.67272853 0.82053422 0.15373386 0.74873866 0.58803659
+ 0.5843925 ]
+================================
+epoch [3/120] IoU: train = 0.0000, val = 0.0000
+epoch [3/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [3/120] Global -- IoU: train = 0.5280, val = 0.6240
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.         0.57676558 0.76947084 0.14527338 0.66150947 0.58813505
+ 0.4270249 ]
+Global val:[0.         0.67631894 0.82172469 0.25304604 0.74179232 0.64530826
+ 0.60586883]
+================================
+epoch [4/120] IoU: train = 0.0000, val = 0.0000
+epoch [4/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [4/120] Global -- IoU: train = 0.5762, val = 0.5783
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.16142797 0.61874446 0.78987303 0.18720033 0.71035383 0.6215683
+ 0.52963447]
+Global val:[0.         0.70973931 0.79578827 0.2709645  0.4511887  0.63272569
+ 0.60930076]
+================================
+epoch [5/120] IoU: train = 0.0000, val = 0.0000
+epoch [5/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [5/120] Global -- IoU: train = 0.5985, val = 0.6347
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.16471558 0.64820319 0.80441401 0.24717775 0.69743623 0.6530847
+ 0.54090606]
+Global val:[0.         0.701098   0.82781716 0.3027707  0.73122889 0.63928256
+ 0.60611893]
+================================
+epoch [6/120] IoU: train = 0.0000, val = 0.0000
+epoch [6/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [6/120] Global -- IoU: train = 0.5975, val = 0.6443
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.49381459 0.65513685 0.79602417 0.25077614 0.68887641 0.64255534
+ 0.55181483]
+Global val:[0.         0.71389826 0.84131352 0.27707257 0.74687732 0.65904206
+ 0.62732795]
+================================
+epoch [7/120] IoU: train = 0.0000, val = 0.0000
+epoch [7/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [7/120] Global -- IoU: train = 0.6242, val = 0.6381
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.46474779 0.63676658 0.8231259  0.30902189 0.74862765 0.70211421
+ 0.52555651]
+Global val:[0.         0.72780708 0.84724241 0.27123956 0.74478073 0.61964537
+ 0.61814867]
+================================
+epoch [8/120] IoU: train = 0.0000, val = 0.0000
+epoch [8/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [8/120] Global -- IoU: train = 0.6309, val = 0.6259
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.57783358 0.70560024 0.81424325 0.29757828 0.75586929 0.68159696
+ 0.53028289]
+Global val:[0.         0.72806485 0.837698   0.27096047 0.70153393 0.61385029
+ 0.60304885]
+================================
+epoch [9/120] IoU: train = 0.0000, val = 0.0000
+epoch [9/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [9/120] Global -- IoU: train = 0.6700, val = 0.6619
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.58689051 0.71278472 0.84273447 0.38078397 0.77381588 0.68227193
+ 0.62733714]
+Global val:[0.15914406 0.73393069 0.83568813 0.34374424 0.75838311 0.67893856
+ 0.62068546]
+================================
+epoch [10/120] IoU: train = 0.0000, val = 0.0000
+epoch [10/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [10/120] Global -- IoU: train = 0.6888, val = 0.6478
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.63521325 0.71741105 0.85406546 0.38540476 0.80794644 0.71918896
+ 0.64876838]
+Global val:[0.03898603 0.7241155  0.83923705 0.33300527 0.70537862 0.65904929
+ 0.62574408]
+================================
+epoch [11/120] IoU: train = 0.0000, val = 0.0000
+epoch [11/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [11/120] Global -- IoU: train = 0.6747, val = 0.6281
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.63853045 0.70504966 0.8431898  0.36202321 0.77988979 0.71847307
+ 0.6394971 ]
+Global val:[0.         0.6403688  0.83465702 0.30325499 0.7491322  0.67937863
+ 0.56196463]
+================================
+epoch [12/120] IoU: train = 0.0000, val = 0.0000
+epoch [12/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [12/120] Global -- IoU: train = 0.6972, val = 0.6462
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.59065564 0.71652567 0.85969134 0.3963964  0.79773206 0.72187162
+ 0.69105411]
+Global val:[0.17045569 0.72850902 0.84882437 0.27639802 0.7530022  0.66716159
+ 0.60340622]
+================================
+epoch [13/120] IoU: train = 0.0000, val = 0.0000
+epoch [13/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [13/120] Global -- IoU: train = 0.7043, val = 0.6433
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.62809431 0.73361508 0.86138322 0.41053937 0.80479388 0.72361908
+ 0.69157703]
+Global val:[0.19037961 0.7085247  0.83398981 0.30993984 0.71226182 0.69028144
+ 0.60458838]
+================================
+epoch [14/120] IoU: train = 0.0000, val = 0.0000
+epoch [14/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [14/120] Global -- IoU: train = 0.7087, val = 0.6395
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.59676065 0.73881168 0.85860944 0.44464471 0.81410676 0.69217253
+ 0.70387051]
+Global val:[0.14330933 0.67507189 0.84533386 0.29970809 0.71662681 0.6958771
+ 0.60455656]
+================================
+epoch [15/120] IoU: train = 0.0000, val = 0.0000
+epoch [15/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [15/120] Global -- IoU: train = 0.7109, val = 0.6547
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.62657815 0.69658953 0.86998426 0.43340209 0.83291565 0.7353379
+ 0.69713746]
+Global val:[0.15202067 0.73360047 0.84817469 0.29479266 0.74948351 0.68683809
+ 0.61514936]
+================================
+epoch [16/120] IoU: train = 0.0000, val = 0.0000
+epoch [16/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [16/120] Global -- IoU: train = 0.7273, val = 0.6569
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.64161341 0.7562853  0.86884983 0.46409082 0.81727948 0.7414464
+ 0.71570692]
+Global val:[0.04901113 0.71648667 0.83474927 0.35697254 0.72320133 0.69582578
+ 0.61397514]
+================================
+epoch [17/120] IoU: train = 0.0000, val = 0.0000
+epoch [17/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [17/120] Global -- IoU: train = 0.7227, val = 0.6500
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.66721936 0.72366565 0.87046187 0.47305593 0.82975259 0.74288345
+ 0.69666925]
+Global val:[0.06067829 0.72191856 0.83356711 0.33398039 0.73575369 0.69128544
+ 0.58350741]
+================================
+epoch [18/120] IoU: train = 0.0000, val = 0.0000
+epoch [18/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [18/120] Global -- IoU: train = 0.7348, val = 0.6530
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.622362   0.75180015 0.87625639 0.48184494 0.85164868 0.7576905
+ 0.68958437]
+Global val:[0.         0.7314556  0.8493439  0.30890699 0.72891027 0.66734145
+ 0.63214275]
+================================
+epoch [19/120] IoU: train = 0.0000, val = 0.0000
+epoch [19/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [19/120] Global -- IoU: train = 0.6969, val = 0.6413
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.62547778 0.72116221 0.85561493 0.44006262 0.71283246 0.75483405
+ 0.69710159]
+Global val:[0.04062807 0.62438688 0.84484068 0.31435373 0.75196776 0.67338782
+ 0.63865267]
+================================
+epoch [20/120] IoU: train = 0.0000, val = 0.0000
+epoch [20/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [20/120] Global -- IoU: train = 0.7326, val = 0.6533
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.66045919 0.75492754 0.87532897 0.48242868 0.83075222 0.7379901
+ 0.7142135 ]
+Global val:[0.05730778 0.73651886 0.84750635 0.3181124  0.69355417 0.68024503
+ 0.64372934]
+================================
+epoch [21/120] IoU: train = 0.0000, val = 0.0000
+epoch [21/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [21/120] Global -- IoU: train = 0.7463, val = 0.6662
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.62453209 0.76152399 0.88003335 0.49680379 0.84811409 0.75664605
+ 0.73438078]
+Global val:[0.10903517 0.73649356 0.85932569 0.31258631 0.76246464 0.66677283
+ 0.65964747]
+================================
+epoch [22/120] IoU: train = 0.0000, val = 0.0000
+epoch [22/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [22/120] Global -- IoU: train = 0.7326, val = 0.6408
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.71714244 0.76251109 0.87251249 0.45649613 0.8430744  0.77114733
+ 0.68975411]
+Global val:[0.17312165 0.73180267 0.85374696 0.32375846 0.69628755 0.67748048
+ 0.56188801]
+================================
+epoch [23/120] IoU: train = 0.0000, val = 0.0000
+epoch [23/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [23/120] Global -- IoU: train = 0.7529, val = 0.6571
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.70424635 0.76283821 0.88563283 0.52306295 0.84236612 0.7663625
+ 0.73686253]
+Global val:[0.12775679 0.73998352 0.85639365 0.2700152  0.74512213 0.69775092
+ 0.6333482 ]
+================================
+epoch [24/120] IoU: train = 0.0000, val = 0.0000
+epoch [24/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [24/120] Global -- IoU: train = 0.7701, val = 0.6762
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.6690399  0.76509134 0.89501677 0.54661057 0.86775624 0.77293639
+ 0.7730742 ]
+Global val:[0.06724646 0.74406824 0.8486951  0.35654115 0.76643564 0.69456781
+ 0.64675476]
+================================
+epoch [25/120] IoU: train = 0.0000, val = 0.0000
+epoch [25/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [25/120] Global -- IoU: train = 0.7466, val = 0.6222
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.67831832 0.71331432 0.87563221 0.53257656 0.85778062 0.76085535
+ 0.73962965]
+Global val:[0.0707034  0.72286421 0.84034695 0.29970232 0.62672466 0.62642473
+ 0.6174107 ]
+================================
+epoch [26/120] IoU: train = 0.0000, val = 0.0000
+epoch [26/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [26/120] Global -- IoU: train = 0.7561, val = 0.6553
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.65516873 0.7658247  0.8877009  0.52365874 0.84536669 0.76724414
+ 0.74681789]
+Global val:[0.23212711 0.73856002 0.81642047 0.34840846 0.74980464 0.65578302
+ 0.62282635]
+================================
+epoch [27/120] IoU: train = 0.0000, val = 0.0000
+epoch [27/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [27/120] Global -- IoU: train = 0.7424, val = 0.6511
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.69967785 0.7625314  0.8772099  0.50716946 0.8427741  0.72624189
+ 0.73872092]
+Global val:[0.18856017 0.74339734 0.84925961 0.28519537 0.70525469 0.67751734
+ 0.64603853]
+================================
+epoch [28/120] IoU: train = 0.0000, val = 0.0000
+epoch [28/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [28/120] Global -- IoU: train = 0.7189, val = 0.6643
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.68631718 0.76020262 0.87678336 0.51916151 0.85693186 0.54811168
+ 0.75233416]
+Global val:[0.09423184 0.70893364 0.85377285 0.33680337 0.7516474  0.68693667
+ 0.64762004]
+================================
+epoch [29/120] IoU: train = 0.0000, val = 0.0000
+epoch [29/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [29/120] Global -- IoU: train = 0.7664, val = 0.6609
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.69077848 0.77312567 0.89563834 0.54726263 0.86644606 0.75436921
+ 0.76172481]
+Global val:[0.13785417 0.74038012 0.85062542 0.33207821 0.67931994 0.70225792
+ 0.66080021]
+================================
+epoch [30/120] IoU: train = 0.0000, val = 0.0000
+epoch [30/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [30/120] Global -- IoU: train = 0.7456, val = 0.6662
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.67839065 0.69839559 0.88245256 0.52183675 0.85508313 0.7783743
+ 0.73768031]
+Global val:[0.19647788 0.73959511 0.85629823 0.35038621 0.74910488 0.68014508
+ 0.62159451]
+================================
+epoch [31/120] IoU: train = 0.0000, val = 0.0000
+epoch [31/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [31/120] Global -- IoU: train = 0.7741, val = 0.6691
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.6954816  0.76768214 0.89654695 0.56465605 0.8637149  0.7766013
+ 0.7753318 ]
+Global val:[0.23067312 0.734912   0.85668935 0.30828964 0.76890326 0.69981055
+ 0.64610184]
+================================
+epoch [32/120] IoU: train = 0.0000, val = 0.0000
+epoch [32/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [32/120] Global -- IoU: train = 0.7750, val = 0.6808
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.61697474 0.77660478 0.90251545 0.5648279  0.87917385 0.77926448
+ 0.74783525]
+Global val:[0.18158654 0.73572818 0.85673495 0.3660828  0.77363687 0.69830943
+ 0.65401288]
+================================
+epoch [33/120] IoU: train = 0.0000, val = 0.0000
+epoch [33/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [33/120] Global -- IoU: train = 0.7912, val = 0.6850
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.70666347 0.78884573 0.90700094 0.58518812 0.88580137 0.79075676
+ 0.78932208]
+Global val:[0.09751571 0.74060221 0.86645383 0.36309865 0.77110186 0.70859597
+ 0.65997723]
+================================
+epoch [34/120] IoU: train = 0.0000, val = 0.0000
+epoch [34/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [34/120] Global -- IoU: train = 0.7674, val = 0.6745
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.64368876 0.77709558 0.88964995 0.55707712 0.83012861 0.78534785
+ 0.76497966]
+Global val:[0.24767371 0.72693055 0.86398384 0.34843238 0.75186112 0.716931
+ 0.63889134]
+================================
+epoch [35/120] IoU: train = 0.0000, val = 0.0000
+epoch [35/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [35/120] Global -- IoU: train = 0.7901, val = 0.6718
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.69964666 0.78830256 0.90844254 0.58459288 0.87803926 0.78961184
+ 0.7915768 ]
+Global val:[0.19156702 0.73349278 0.86047248 0.36634787 0.77927944 0.64320171
+ 0.64822419]
+================================
+epoch [36/120] IoU: train = 0.0000, val = 0.0000
+epoch [36/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [36/120] Global -- IoU: train = 0.7954, val = 0.6816
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.72680583 0.77951419 0.91256847 0.61776278 0.89108133 0.78508087
+ 0.7864885 ]
+Global val:[0.10647414 0.74210773 0.85979697 0.36967134 0.74866093 0.71055079
+ 0.65867712]
+================================
+epoch [37/120] IoU: train = 0.0000, val = 0.0000
+epoch [37/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [37/120] Global -- IoU: train = 0.7988, val = 0.6725
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77700856 0.78846942 0.90859988 0.6104957  0.88615296 0.79855411
+ 0.80043465]
+Global val:[0.1236546  0.75022465 0.85792949 0.32688512 0.75606082 0.70495389
+ 0.63887409]
+================================
+epoch [38/120] IoU: train = 0.0000, val = 0.0000
+epoch [38/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [38/120] Global -- IoU: train = 0.7934, val = 0.6807
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.72652592 0.77473459 0.90822511 0.59815407 0.89118687 0.79348855
+ 0.79466865]
+Global val:[0.09584387 0.7381024  0.86454513 0.33740116 0.76885944 0.71527267
+ 0.65977736]
+================================
+epoch [39/120] IoU: train = 0.0000, val = 0.0000
+epoch [39/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [39/120] Global -- IoU: train = 0.7983, val = 0.6801
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.72316711 0.78598566 0.90912403 0.58582945 0.89588695 0.79646275
+ 0.81649373]
+Global val:[0.12041403 0.7468237  0.86270633 0.34599827 0.7691761  0.68556968
+ 0.67021103]
+================================
+epoch [40/120] IoU: train = 0.0000, val = 0.0000
+epoch [40/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [40/120] Global -- IoU: train = 0.8031, val = 0.6759
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.76490071 0.79354313 0.91467972 0.61880495 0.89109001 0.79543029
+ 0.80502521]
+Global val:[0.16417432 0.72481371 0.86219975 0.36947674 0.75855455 0.70512939
+ 0.63539351]
+================================
+epoch [41/120] IoU: train = 0.0000, val = 0.0000
+epoch [41/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [41/120] Global -- IoU: train = 0.8060, val = 0.6754
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.72450781 0.80126504 0.91225328 0.60693318 0.89247889 0.80375293
+ 0.81911162]
+Global val:[0.12371255 0.74269493 0.86059609 0.31346884 0.7664316  0.71529393
+ 0.65363187]
+================================
+epoch [42/120] IoU: train = 0.0000, val = 0.0000
+epoch [42/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [42/120] Global -- IoU: train = 0.7977, val = 0.6817
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.74345205 0.79612357 0.90719618 0.61865886 0.89620772 0.79770611
+ 0.77000943]
+Global val:[0.18324203 0.74171186 0.85828114 0.36004958 0.77400901 0.71407996
+ 0.6419195 ]
+================================
+epoch [43/120] IoU: train = 0.0000, val = 0.0000
+epoch [43/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [43/120] Global -- IoU: train = 0.8114, val = 0.6818
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.67424689 0.79994837 0.91567509 0.62240363 0.89865287 0.80618294
+ 0.82583708]
+Global val:[0.09250348 0.7433981  0.85985458 0.35487111 0.76687024 0.71596144
+ 0.6498387 ]
+================================
+epoch [44/120] IoU: train = 0.0000, val = 0.0000
+epoch [44/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [44/120] Global -- IoU: train = 0.8100, val = 0.6771
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.71791896 0.7982558  0.91641108 0.63123747 0.89176555 0.80136511
+ 0.82080241]
+Global val:[0.07416488 0.72596257 0.85545546 0.33589208 0.76182175 0.72466115
+ 0.65882713]
+================================
+epoch [45/120] IoU: train = 0.0000, val = 0.0000
+epoch [45/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [45/120] Global -- IoU: train = 0.8115, val = 0.6867
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.71109502 0.8054955  0.91527492 0.62354554 0.89196808 0.80597096
+ 0.82702718]
+Global val:[0.23217068 0.73977981 0.862248   0.37407931 0.75522453 0.72690933
+ 0.66197785]
+================================
+epoch [46/120] IoU: train = 0.0000, val = 0.0000
+epoch [46/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [46/120] Global -- IoU: train = 0.8153, val = 0.6801
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.73542572 0.80424273 0.92080675 0.64317098 0.90215139 0.7980125
+ 0.82351201]
+Global val:[0.05411011 0.74460629 0.86145685 0.32168835 0.78356116 0.71518867
+ 0.65395778]
+================================
+epoch [47/120] IoU: train = 0.0000, val = 0.0000
+epoch [47/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [47/120] Global -- IoU: train = 0.8041, val = 0.6807
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75901888 0.78846672 0.91318694 0.6225401  0.89100914 0.81009341
+ 0.79932681]
+Global val:[0.1570696  0.74639057 0.85988948 0.3362432  0.77445153 0.71809584
+ 0.64909583]
+================================
+epoch [48/120] IoU: train = 0.0000, val = 0.0000
+epoch [48/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [48/120] Global -- IoU: train = 0.8123, val = 0.6758
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.71630383 0.80425352 0.91897834 0.63844052 0.88860114 0.80868756
+ 0.81507438]
+Global val:[0.21101414 0.74355829 0.85993783 0.34023192 0.76576808 0.6947247
+ 0.65079521]
+================================
+epoch [49/120] IoU: train = 0.0000, val = 0.0000
+epoch [49/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [49/120] Global -- IoU: train = 0.8112, val = 0.6829
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75158768 0.80415728 0.92078696 0.63712464 0.89873717 0.80388165
+ 0.80230786]
+Global val:[0.12222413 0.7371226  0.85942715 0.3509467  0.75658461 0.72501125
+ 0.66831313]
+================================
+epoch [50/120] IoU: train = 0.0000, val = 0.0000
+epoch [50/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [50/120] Global -- IoU: train = 0.8063, val = 0.6687
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.73323695 0.79378183 0.91727234 0.63225084 0.87694597 0.80685445
+ 0.81072426]
+Global val:[0.07416488 0.75047803 0.86285543 0.34805034 0.73462698 0.67609756
+ 0.64032236]
+================================
+epoch [51/120] IoU: train = 0.0000, val = 0.0000
+epoch [51/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [51/120] Global -- IoU: train = 0.8101, val = 0.6819
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.69646397 0.79824098 0.91929834 0.63986408 0.8984066  0.80403583
+ 0.80059965]
+Global val:[0.16527436 0.75198491 0.85822463 0.34314378 0.76198209 0.71902079
+ 0.65725864]
+================================
+epoch [52/120] IoU: train = 0.0000, val = 0.0000
+epoch [52/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [52/120] Global -- IoU: train = 0.8186, val = 0.6863
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.74750093 0.80165943 0.91991895 0.65220081 0.90407485 0.80866647
+ 0.82480936]
+Global val:[0.15892295 0.74758975 0.86048751 0.36463688 0.77513903 0.72687001
+ 0.6431011 ]
+================================
+epoch [53/120] IoU: train = 0.0000, val = 0.0000
+epoch [53/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [53/120] Global -- IoU: train = 0.8183, val = 0.6857
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.7380872  0.79864723 0.92219769 0.65207207 0.90605489 0.80919045
+ 0.82166522]
+Global val:[0.22323578 0.7518902  0.86291641 0.35746102 0.76451692 0.72123715
+ 0.65637221]
+================================
+epoch [54/120] IoU: train = 0.0000, val = 0.0000
+epoch [54/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [54/120] Global -- IoU: train = 0.8162, val = 0.6812
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.71151421 0.80498153 0.92372577 0.65547563 0.90024125 0.80661401
+ 0.80591239]
+Global val:[0.11195295 0.75234702 0.85469559 0.36780769 0.76913779 0.71432521
+ 0.6286748 ]
+================================
+epoch [55/120] IoU: train = 0.0000, val = 0.0000
+epoch [55/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [55/120] Global -- IoU: train = 0.8203, val = 0.6861
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75689921 0.79851417 0.92484242 0.66032438 0.90896931 0.81505766
+ 0.8138659 ]
+Global val:[0.12462362 0.7459096  0.86428589 0.37175877 0.77915818 0.70991216
+ 0.64534945]
+================================
+epoch [56/120] IoU: train = 0.0000, val = 0.0000
+epoch [56/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [56/120] Global -- IoU: train = 0.8150, val = 0.6863
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.69115917 0.79955618 0.92197453 0.63860596 0.89604892 0.80907771
+ 0.82503367]
+Global val:[0.10678465 0.75145601 0.85565498 0.36851689 0.76318951 0.71273548
+ 0.66639181]
+================================
+epoch [57/120] IoU: train = 0.0000, val = 0.0000
+epoch [57/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [57/120] Global -- IoU: train = 0.8155, val = 0.6705
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78444505 0.80315509 0.91628312 0.64541396 0.89403325 0.82056715
+ 0.81351649]
+Global val:[0.11192486 0.74464641 0.86413516 0.29986719 0.76161029 0.71638281
+ 0.63628381]
+================================
+epoch [58/120] IoU: train = 0.0000, val = 0.0000
+epoch [58/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [58/120] Global -- IoU: train = 0.8207, val = 0.6854
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.76169071 0.81046917 0.92210414 0.64932698 0.89911994 0.81767001
+ 0.82554122]
+Global val:[0.23974546 0.74442226 0.8659876  0.36436276 0.77120971 0.71481878
+ 0.65135282]
+================================
+epoch [59/120] IoU: train = 0.0000, val = 0.0000
+epoch [59/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [59/120] Global -- IoU: train = 0.8251, val = 0.6897
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.70793992 0.80632891 0.92484432 0.66312715 0.91148535 0.81385403
+ 0.83123538]
+Global val:[0.19796316 0.74993842 0.86247055 0.36401195 0.78547494 0.72615131
+ 0.64996691]
+================================
+epoch [60/120] IoU: train = 0.0000, val = 0.0000
+epoch [60/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [60/120] Global -- IoU: train = 0.8182, val = 0.6758
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.68863826 0.80391985 0.92336016 0.64980529 0.9055932  0.80541434
+ 0.82093307]
+Global val:[0.27785251 0.72456159 0.86023721 0.35247465 0.75176935 0.70278009
+ 0.66287194]
+================================
+epoch [61/120] IoU: train = 0.0000, val = 0.0000
+epoch [61/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [61/120] Global -- IoU: train = 0.8267, val = 0.6902
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.74464956 0.8085091  0.92591534 0.66990672 0.90374225 0.8133939
+ 0.83877654]
+Global val:[0.28157757 0.74795929 0.86679458 0.35794649 0.77879445 0.71952739
+ 0.66993521]
+================================
+epoch [62/120] IoU: train = 0.0000, val = 0.0000
+epoch [62/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [62/120] Global -- IoU: train = 0.8301, val = 0.6872
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75336489 0.81872454 0.92811631 0.67517537 0.90605561 0.81849606
+ 0.83385116]
+Global val:[0.27428482 0.75699571 0.86587696 0.3478018  0.77298635 0.72058818
+ 0.6590773 ]
+================================
+epoch [63/120] IoU: train = 0.0000, val = 0.0000
+epoch [63/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [63/120] Global -- IoU: train = 0.8339, val = 0.6903
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.7949452  0.81742102 0.93223889 0.68640459 0.91477033 0.81704377
+ 0.83523922]
+Global val:[0.16586623 0.75262953 0.86683684 0.3623524  0.78342882 0.72963901
+ 0.64693193]
+================================
+epoch [64/120] IoU: train = 0.0000, val = 0.0000
+epoch [64/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [64/120] Global -- IoU: train = 0.8307, val = 0.6853
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77321948 0.82231296 0.92642666 0.66346741 0.91268728 0.81899693
+ 0.84055064]
+Global val:[0.25356465 0.74300281 0.86052898 0.36404288 0.76075623 0.72451316
+ 0.65872363]
+================================
+epoch [65/120] IoU: train = 0.0000, val = 0.0000
+epoch [65/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [65/120] Global -- IoU: train = 0.8334, val = 0.6721
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75868345 0.82194818 0.92976075 0.68137493 0.91475341 0.82117193
+ 0.83130056]
+Global val:[0.17899643 0.74692931 0.86162223 0.3184251  0.75395917 0.73289361
+ 0.61874624]
+================================
+epoch [66/120] IoU: train = 0.0000, val = 0.0000
+epoch [66/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [66/120] Global -- IoU: train = 0.8366, val = 0.6856
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.7295246  0.82512529 0.93198949 0.68321948 0.91208599 0.82220053
+ 0.84472108]
+Global val:[0.06258415 0.7509587  0.86612178 0.36120173 0.7683671  0.72458749
+ 0.6423333 ]
+================================
+epoch [67/120] IoU: train = 0.0000, val = 0.0000
+epoch [67/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [67/120] Global -- IoU: train = 0.8439, val = 0.6886
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.6997143  0.82965659 0.93554844 0.69928633 0.91716404 0.82505652
+ 0.85679964]
+Global val:[0.26138569 0.75095605 0.86811102 0.36328077 0.77627276 0.72445866
+ 0.64880417]
+================================
+epoch [68/120] IoU: train = 0.0000, val = 0.0000
+epoch [68/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [68/120] Global -- IoU: train = 0.8401, val = 0.6804
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.76069536 0.82765958 0.93219715 0.69222216 0.91636993 0.82315297
+ 0.8488772 ]
+Global val:[0.24165653 0.74809976 0.85908091 0.34407631 0.73625313 0.73182171
+ 0.66277266]
+================================
+epoch [69/120] IoU: train = 0.0000, val = 0.0000
+epoch [69/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [69/120] Global -- IoU: train = 0.8384, val = 0.6807
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.76390433 0.82117048 0.93328873 0.69084441 0.91222585 0.82854142
+ 0.84410856]
+Global val:[0.24722054 0.75412711 0.85968103 0.32904406 0.76962801 0.73049425
+ 0.64141194]
+================================
+epoch [70/120] IoU: train = 0.0000, val = 0.0000
+epoch [70/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [70/120] Global -- IoU: train = 0.8362, val = 0.6876
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78246515 0.82195027 0.9312299  0.68851043 0.91545627 0.82308455
+ 0.83680609]
+Global val:[0.22218292 0.7506188  0.86351379 0.35926913 0.77113584 0.71890453
+ 0.66219388]
+================================
+epoch [71/120] IoU: train = 0.0000, val = 0.0000
+epoch [71/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [71/120] Global -- IoU: train = 0.8385, val = 0.6812
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.72638007 0.8278746  0.92922552 0.67477701 0.91552383 0.82906701
+ 0.85428065]
+Global val:[0.27055653 0.75372063 0.8664206  0.35026708 0.76200621 0.69213315
+ 0.66258355]
+================================
+epoch [72/120] IoU: train = 0.0000, val = 0.0000
+epoch [72/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [72/120] Global -- IoU: train = 0.8401, val = 0.6683
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.69104389 0.83109767 0.93312644 0.69239047 0.91586838 0.82275058
+ 0.84550372]
+Global val:[0.22808836 0.75075882 0.8533508  0.31587394 0.75608302 0.70869021
+ 0.62500346]
+================================
+epoch [73/120] IoU: train = 0.0000, val = 0.0000
+epoch [73/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [73/120] Global -- IoU: train = 0.8420, val = 0.6897
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.74653492 0.82685194 0.93371942 0.70106014 0.9188844  0.82696016
+ 0.84439919]
+Global val:[0.2304893  0.74991122 0.86814441 0.37229606 0.76104405 0.71923463
+ 0.66727383]
+================================
+epoch [74/120] IoU: train = 0.0000, val = 0.0000
+epoch [74/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [74/120] Global -- IoU: train = 0.8397, val = 0.6897
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79271806 0.82677972 0.93141292 0.69117891 0.92137418 0.82234225
+ 0.84531814]
+Global val:[0.23904516 0.75256238 0.86773085 0.34836813 0.77869641 0.7258527
+ 0.66495031]
+================================
+epoch [75/120] IoU: train = 0.0000, val = 0.0000
+epoch [75/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [75/120] Global -- IoU: train = 0.8465, val = 0.6808
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79862565 0.83275903 0.93619342 0.69845478 0.91929448 0.83390267
+ 0.85841654]
+Global val:[0.24223871 0.75059036 0.8634853  0.36065785 0.75290864 0.72475372
+ 0.6325904 ]
+================================
+epoch [76/120] IoU: train = 0.0000, val = 0.0000
+epoch [76/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [76/120] Global -- IoU: train = 0.8294, val = 0.6856
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78903314 0.79446786 0.92479223 0.68978887 0.91774256 0.82289435
+ 0.82652534]
+Global val:[0.19060347 0.74629933 0.86211072 0.37007016 0.76805801 0.72607948
+ 0.64120473]
+================================
+epoch [77/120] IoU: train = 0.0000, val = 0.0000
+epoch [77/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [77/120] Global -- IoU: train = 0.8401, val = 0.6919
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75731121 0.82033244 0.93140445 0.69802383 0.9192974  0.81963099
+ 0.85168636]
+Global val:[0.24009269 0.7467641  0.86633564 0.38208419 0.7894702  0.72162234
+ 0.64534033]
+================================
+epoch [78/120] IoU: train = 0.0000, val = 0.0000
+epoch [78/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [78/120] Global -- IoU: train = 0.8481, val = 0.6880
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79615908 0.83261811 0.93688898 0.70747571 0.92083998 0.82887125
+ 0.8618364 ]
+Global val:[0.22591785 0.74796794 0.86614666 0.36099764 0.78075829 0.71002344
+ 0.662032  ]
+================================
+epoch [79/120] IoU: train = 0.0000, val = 0.0000
+epoch [79/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [79/120] Global -- IoU: train = 0.8467, val = 0.6857
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77247336 0.83293253 0.93602411 0.70321867 0.91918613 0.82644258
+ 0.86220839]
+Global val:[0.15384062 0.75264981 0.86716538 0.34106781 0.78508879 0.71824777
+ 0.64968853]
+================================
+epoch [80/120] IoU: train = 0.0000, val = 0.0000
+epoch [80/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [80/120] Global -- IoU: train = 0.8448, val = 0.6819
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77532216 0.82730449 0.93715606 0.70941673 0.90873942 0.82555089
+ 0.86080676]
+Global val:[0.13054385 0.735804   0.85837262 0.36022083 0.76962323 0.71691661
+ 0.65028064]
+================================
+epoch [81/120] IoU: train = 0.0000, val = 0.0000
+epoch [81/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [81/120] Global -- IoU: train = 0.7870, val = 0.6593
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.76208527 0.74375812 0.90070695 0.64079837 0.83700919 0.79590182
+ 0.80362484]
+Global val:[0.17943301 0.71773742 0.85899513 0.31085115 0.73000009 0.70174076
+ 0.63663012]
+================================
+epoch [82/120] IoU: train = 0.0000, val = 0.0000
+epoch [82/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [82/120] Global -- IoU: train = 0.8245, val = 0.6944
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77301796 0.79616205 0.92924037 0.68030011 0.90275046 0.81367927
+ 0.82483985]
+Global val:[0.16322291 0.75139163 0.86848655 0.37770208 0.77291673 0.72787325
+ 0.66822157]
+================================
+epoch [83/120] IoU: train = 0.0000, val = 0.0000
+epoch [83/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [83/120] Global -- IoU: train = 0.8434, val = 0.6960
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75908084 0.82249878 0.93431939 0.69608852 0.91846513 0.83270806
+ 0.85619949]
+Global val:[0.21276373 0.74547986 0.87004161 0.38120714 0.77876027 0.7300898
+ 0.67020831]
+================================
+epoch [84/120] IoU: train = 0.0000, val = 0.0000
+epoch [84/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [84/120] Global -- IoU: train = 0.8447, val = 0.6926
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.70445973 0.82979069 0.93312843 0.69089171 0.91731051 0.83344045
+ 0.86363052]
+Global val:[0.2309425  0.74410477 0.86876987 0.38297103 0.77046372 0.7274152
+ 0.66178978]
+================================
+epoch [85/120] IoU: train = 0.0000, val = 0.0000
+epoch [85/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [85/120] Global -- IoU: train = 0.8501, val = 0.6925
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75902662 0.83626437 0.93788655 0.71583225 0.92632031 0.81974613
+ 0.86471772]
+Global val:[0.23039329 0.75042542 0.8677581  0.38372044 0.76639514 0.72493516
+ 0.66197373]
+================================
+epoch [86/120] IoU: train = 0.0000, val = 0.0000
+epoch [86/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [86/120] Global -- IoU: train = 0.8518, val = 0.6874
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78292827 0.82925753 0.93859461 0.71858903 0.92271983 0.84040202
+ 0.86097665]
+Global val:[0.2406017  0.73903999 0.86679622 0.37087622 0.76080263 0.7277008
+ 0.65943785]
+================================
+epoch [87/120] IoU: train = 0.0000, val = 0.0000
+epoch [87/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [87/120] Global -- IoU: train = 0.8521, val = 0.6899
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78985526 0.83266538 0.93875368 0.72028171 0.92462956 0.83594965
+ 0.86043058]
+Global val:[0.24093934 0.74092493 0.86763576 0.36731237 0.7669312  0.73456392
+ 0.66219722]
+================================
+epoch [88/120] IoU: train = 0.0000, val = 0.0000
+epoch [88/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [88/120] Global -- IoU: train = 0.8553, val = 0.6884
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.75272954 0.83405565 0.94015872 0.72167247 0.92578155 0.83813253
+ 0.87190231]
+Global val:[0.23717476 0.75548077 0.86998426 0.3352541  0.77719155 0.72778425
+ 0.66457602]
+================================
+epoch [89/120] IoU: train = 0.0000, val = 0.0000
+epoch [89/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [89/120] Global -- IoU: train = 0.8554, val = 0.6921
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77110888 0.83899782 0.94044789 0.718187   0.92427611 0.84037267
+ 0.87041332]
+Global val:[0.22146475 0.74177512 0.8666416  0.37932363 0.76765359 0.73675346
+ 0.66051777]
+================================
+epoch [90/120] IoU: train = 0.0000, val = 0.0000
+epoch [90/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [90/120] Global -- IoU: train = 0.8575, val = 0.6955
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79550847 0.83879829 0.94199468 0.72911938 0.92891032 0.83520273
+ 0.87099764]
+Global val:[0.26171076 0.75212522 0.86978628 0.38297418 0.76032443 0.73131507
+ 0.67667653]
+================================
+epoch [91/120] IoU: train = 0.0000, val = 0.0000
+epoch [91/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [91/120] Global -- IoU: train = 0.8591, val = 0.6919
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78458073 0.84218833 0.94274983 0.72945039 0.92468617 0.84211235
+ 0.87335401]
+Global val:[0.18586479 0.75059    0.86896794 0.35805759 0.77543559 0.73004645
+ 0.66812714]
+================================
+epoch [92/120] IoU: train = 0.0000, val = 0.0000
+epoch [92/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [92/120] Global -- IoU: train = 0.8605, val = 0.6893
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77956356 0.84118589 0.94367363 0.73176328 0.92994546 0.8379235
+ 0.87847406]
+Global val:[0.2192385  0.7538088  0.86762526 0.35884034 0.75875043 0.73609366
+ 0.66061643]
+================================
+epoch [93/120] IoU: train = 0.0000, val = 0.0000
+epoch [93/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [93/120] Global -- IoU: train = 0.8603, val = 0.6936
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79274129 0.84299816 0.94300896 0.72748047 0.92877696 0.84165014
+ 0.87801316]
+Global val:[0.22000506 0.75279499 0.86707476 0.3605389  0.77215107 0.73814149
+ 0.6710223 ]
+================================
+epoch [94/120] IoU: train = 0.0000, val = 0.0000
+epoch [94/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [94/120] Global -- IoU: train = 0.8596, val = 0.6939
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.74955493 0.84095137 0.9428641  0.73085111 0.92365206 0.8428226
+ 0.87671129]
+Global val:[0.25973625 0.75329967 0.86934283 0.36666453 0.7658556  0.7341146
+ 0.67389978]
+================================
+epoch [95/120] IoU: train = 0.0000, val = 0.0000
+epoch [95/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [95/120] Global -- IoU: train = 0.8597, val = 0.6971
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80825588 0.84616342 0.94274254 0.73570158 0.92354754 0.83709093
+ 0.87318396]
+Global val:[0.23989285 0.74936081 0.87136539 0.37772998 0.77544127 0.7378992
+ 0.67058206]
+================================
+epoch [96/120] IoU: train = 0.0000, val = 0.0000
+epoch [96/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [96/120] Global -- IoU: train = 0.8629, val = 0.6979
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79950783 0.84680018 0.94382929 0.73635191 0.92828416 0.84144752
+ 0.88052214]
+Global val:[0.2485012  0.7535478  0.87279363 0.37494277 0.77475876 0.73365285
+ 0.67760658]
+================================
+epoch [97/120] IoU: train = 0.0000, val = 0.0000
+epoch [97/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [97/120] Global -- IoU: train = 0.8618, val = 0.6947
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80463934 0.84317622 0.94467946 0.73548406 0.93000515 0.84233839
+ 0.87532761]
+Global val:[0.22488487 0.74317923 0.87059318 0.36338399 0.781788   0.73775499
+ 0.67133846]
+================================
+epoch [98/120] IoU: train = 0.0000, val = 0.0000
+epoch [98/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [98/120] Global -- IoU: train = 0.8606, val = 0.6929
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78073629 0.8407419  0.94331546 0.72764992 0.93116462 0.84363907
+ 0.87715233]
+Global val:[0.17095347 0.74339621 0.86973492 0.37212726 0.77019033 0.73390537
+ 0.66813108]
+================================
+epoch [99/120] IoU: train = 0.0000, val = 0.0000
+epoch [99/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [99/120] Global -- IoU: train = 0.8647, val = 0.6957
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77931537 0.8415354  0.94565313 0.74406872 0.93033501 0.84785138
+ 0.87848974]
+Global val:[0.22073773 0.7437413  0.87046486 0.36655641 0.77588097 0.74084885
+ 0.67689291]
+================================
+epoch [100/120] IoU: train = 0.0000, val = 0.0000
+epoch [100/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [100/120] Global -- IoU: train = 0.8633, val = 0.6948
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79808861 0.84108925 0.94467593 0.7368139  0.93196375 0.84666149
+ 0.87882071]
+Global val:[0.24637772 0.74458525 0.86815793 0.38606384 0.77269241 0.73013667
+ 0.66689557]
+================================
+epoch [101/120] IoU: train = 0.0000, val = 0.0000
+epoch [101/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [101/120] Global -- IoU: train = 0.8644, val = 0.6959
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78995639 0.84600274 0.94548667 0.73946638 0.92947364 0.84330737
+ 0.88244245]
+Global val:[0.21812982 0.75074167 0.8707001  0.37239597 0.77134221 0.73384459
+ 0.67644575]
+================================
+epoch [102/120] IoU: train = 0.0000, val = 0.0000
+epoch [102/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [102/120] Global -- IoU: train = 0.8660, val = 0.6936
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79606498 0.84873265 0.94597474 0.74393644 0.93144861 0.84607193
+ 0.87988458]
+Global val:[0.22877488 0.74915146 0.86858655 0.37723083 0.77286004 0.71921227
+ 0.6746035 ]
+================================
+epoch [103/120] IoU: train = 0.0000, val = 0.0000
+epoch [103/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [103/120] Global -- IoU: train = 0.8649, val = 0.6883
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.81292716 0.84938074 0.94545095 0.7416328  0.93154724 0.83939351
+ 0.88197203]
+Global val:[0.23496389 0.756443   0.86855556 0.34811966 0.74870555 0.73520047
+ 0.67291986]
+================================
+epoch [104/120] IoU: train = 0.0000, val = 0.0000
+epoch [104/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [104/120] Global -- IoU: train = 0.8672, val = 0.6930
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80744265 0.85034185 0.94571665 0.74662141 0.93254232 0.84559622
+ 0.88211252]
+Global val:[0.2331087  0.75431398 0.86829325 0.36830636 0.77204941 0.72516871
+ 0.66960087]
+================================
+epoch [105/120] IoU: train = 0.0000, val = 0.0000
+epoch [105/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [105/120] Global -- IoU: train = 0.8690, val = 0.6935
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.78228604 0.85006853 0.94690712 0.74944707 0.93397817 0.84776216
+ 0.88561794]
+Global val:[0.23118485 0.75358132 0.8706636  0.36335062 0.76669872 0.73510431
+ 0.6714814 ]
+================================
+epoch [106/120] IoU: train = 0.0000, val = 0.0000
+epoch [106/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [106/120] Global -- IoU: train = 0.8691, val = 0.6957
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79160135 0.85218274 0.94691684 0.74921512 0.93292155 0.84849242
+ 0.88513284]
+Global val:[0.22972955 0.75340618 0.87097383 0.36991639 0.77276807 0.73566179
+ 0.67129292]
+================================
+epoch [107/120] IoU: train = 0.0000, val = 0.0000
+epoch [107/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [107/120] Global -- IoU: train = 0.8694, val = 0.6982
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.77045682 0.84893161 0.94681103 0.74991689 0.93590952 0.84802769
+ 0.88686481]
+Global val:[0.22998167 0.75450943 0.87040028 0.37441327 0.77296123 0.74034472
+ 0.67641154]
+================================
+epoch [108/120] IoU: train = 0.0000, val = 0.0000
+epoch [108/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [108/120] Global -- IoU: train = 0.8707, val = 0.6927
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.82095066 0.8526993  0.9476083  0.75129235 0.93520937 0.84864727
+ 0.88869537]
+Global val:[0.2611309  0.75258243 0.8666982  0.37756103 0.77448743 0.71506299
+ 0.66991155]
+================================
+epoch [109/120] IoU: train = 0.0000, val = 0.0000
+epoch [109/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [109/120] Global -- IoU: train = 0.8710, val = 0.6912
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80722899 0.85190595 0.94779776 0.75586681 0.93389429 0.85077104
+ 0.88554117]
+Global val:[0.2378389  0.74959223 0.86936814 0.37011384 0.76594264 0.72912298
+ 0.66325404]
+================================
+epoch [110/120] IoU: train = 0.0000, val = 0.0000
+epoch [110/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [110/120] Global -- IoU: train = 0.8578, val = 0.6941
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.81418036 0.84639628 0.94366503 0.74555019 0.89945631 0.84506517
+ 0.86650679]
+Global val:[0.23350193 0.75357843 0.86989681 0.37382919 0.75587641 0.73440115
+ 0.67698857]
+================================
+epoch [111/120] IoU: train = 0.0000, val = 0.0000
+epoch [111/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [111/120] Global -- IoU: train = 0.8720, val = 0.6925
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.79566409 0.85396474 0.94852825 0.75690698 0.93522035 0.85012771
+ 0.88695825]
+Global val:[0.22290375 0.75476562 0.87059722 0.35924268 0.76298136 0.73155628
+ 0.67609402]
+================================
+epoch [112/120] IoU: train = 0.0000, val = 0.0000
+epoch [112/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [112/120] Global -- IoU: train = 0.8710, val = 0.6957
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.82005794 0.85213075 0.94857127 0.75671767 0.93249058 0.84972154
+ 0.88654784]
+Global val:[0.21333295 0.75768463 0.87177516 0.36489304 0.77026265 0.73360053
+ 0.67581365]
+================================
+epoch [113/120] IoU: train = 0.0000, val = 0.0000
+epoch [113/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [113/120] Global -- IoU: train = 0.8738, val = 0.6956
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80664841 0.85475387 0.94989457 0.75868129 0.93716095 0.85053664
+ 0.89203866]
+Global val:[0.23629085 0.75149649 0.87046857 0.36774586 0.76657336 0.73852071
+ 0.67863018]
+================================
+epoch [114/120] IoU: train = 0.0000, val = 0.0000
+epoch [114/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [114/120] Global -- IoU: train = 0.8728, val = 0.6939
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.81138661 0.85354135 0.94891883 0.75657473 0.93497927 0.85279432
+ 0.88993881]
+Global val:[0.24323176 0.75669581 0.87096402 0.35176806 0.76722695 0.73910616
+ 0.67791479]
+================================
+epoch [115/120] IoU: train = 0.0000, val = 0.0000
+epoch [115/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [115/120] Global -- IoU: train = 0.8729, val = 0.6971
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.81297531 0.85462539 0.94916586 0.75625875 0.93650188 0.85290242
+ 0.887846  ]
+Global val:[0.20214671 0.75447925 0.87222405 0.36779019 0.7753329  0.73604212
+ 0.67682742]
+================================
+epoch [116/120] IoU: train = 0.0000, val = 0.0000
+epoch [116/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [116/120] Global -- IoU: train = 0.8738, val = 0.6946
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80917844 0.85373298 0.94961595 0.76024753 0.93821819 0.85038004
+ 0.89084075]
+Global val:[0.2359186  0.75302587 0.8697346  0.36833684 0.76531163 0.73623605
+ 0.67520204]
+================================
+epoch [117/120] IoU: train = 0.0000, val = 0.0000
+epoch [117/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [117/120] Global -- IoU: train = 0.8736, val = 0.6937
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80205009 0.85254705 0.94944067 0.76224706 0.93763759 0.85095318
+ 0.88902191]
+Global val:[0.2535662  0.75281707 0.87079665 0.35479192 0.77874712 0.73366614
+ 0.67143272]
+================================
+epoch [118/120] IoU: train = 0.0000, val = 0.0000
+epoch [118/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [118/120] Global -- IoU: train = 0.8747, val = 0.6980
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.81952294 0.85372757 0.95008157 0.76204359 0.93724257 0.85384578
+ 0.89147207]
+Global val:[0.21830145 0.7529927  0.87138115 0.37926332 0.77368925 0.73807215
+ 0.67261785]
+================================
+epoch [119/120] IoU: train = 0.0000, val = 0.0000
+epoch [119/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [119/120] Global -- IoU: train = 0.8741, val = 0.6957
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.81361537 0.85480262 0.94998207 0.7609697  0.93747264 0.85088534
+ 0.89027303]
+Global val:[0.20077371 0.75619984 0.87145652 0.36723889 0.77036563 0.73621045
+ 0.67248674]
+================================
+epoch [120/120] IoU: train = 0.0000, val = 0.0000
+epoch [120/120] Local  -- IoU: train = 0.0000, val = 0.0000
+epoch [120/120] Global -- IoU: train = 0.8766, val = 0.6944
+train: [nan nan nan nan nan nan nan]
+val:[nan nan nan nan nan nan nan]
+Local train:[nan nan nan nan nan nan nan]
+Local val:[nan nan nan nan nan nan nan]
+Global train:[0.80742386 0.85774706 0.95112343 0.76593523 0.93737645 0.85386994
+ 0.89339438]
+Global val:[0.20516994 0.75448817 0.870835   0.36070527 0.77520642 0.73259881
+ 0.67230382]
+================================
